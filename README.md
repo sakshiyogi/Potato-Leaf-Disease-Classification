@@ -1,3 +1,4 @@
+
 # LeafLens — Streamlit Potato Leaf Classifier
 
 A single-page Streamlit interface for your trained CNN model. The UI uses a soft cream and green theme.
@@ -100,3 +101,7 @@ Confirm that the model file is the same trained model from the notebook and that
 
 ## Note
 The confidence score is the model's softmax output, not a guarantee of diagnostic accuracy. This project is intended as an educational CNN demonstration.
+
+# Potato-Leaf-Disease-Classification
+Potato Leaf Disease Classification using CNN and Streamlit
+
